@@ -217,7 +217,7 @@ ol.linenums > li {
 }
 
 .editormd-html-preview ol.linenums, .editormd-preview-container ol.linenums{
-	padding-left: 10px;
+	padding-left: 13px;
 }
 
 .markdown-body table{
