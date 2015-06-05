@@ -10,6 +10,6 @@ custom CSS(Cmd Markdown Style) for editor.Md --- 一套简单的仿Cmd Markdown�
 > 2. [cmd Markdown](https://www.zybuluo.com/mdeditor)
 
 ## 示例
-** 因较大调整 2015/06/05 - 2015/06/07 时间段将关闭 **
+#### 因较大调整 2015/06/05 - 2015/06/07 时间段将关闭
 > - http://cadou.sinaapp.com/blog/write
 > - http://www.redou.me
