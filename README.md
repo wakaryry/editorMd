@@ -6,7 +6,7 @@ custom CSS(Cmd Markdown Style) for editor.Md --- 一套简单的仿Cmd Markdown�
 
 
 ## 感谢
-> 1. [editor.md](https://github.com/pandao/editor.md)
+> 1. [Editor.md](https://github.com/pandao/editor.md)
 > 2. [cmd Markdown](https://www.zybuluo.com/mdeditor)
 
 ## 示例
